@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Du_An_1/app/src/main/res/drawable/cuttom_vien.xml" value="0.2095" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/activity_chi_tiet_spactivity.xml" value="0.22" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/activity_dang_ki.xml" value="0.25" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/activity_dang_nhap.xml" value="0.22" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/activity_gio_hang.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/activity_main.xml" value="0.19" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/activity_quen_mat_khau.xml" value="0.25" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/fragment_banh.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/fragment_ca_nhan.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/fragment_gio_hang.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/fragment_hang_da_chon.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/fragment_nuoc.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/fragment_san_pham.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/item.xml" value="0.14402173913043478" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/item_recy_san_pham_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Du_An_1/app/src/main/res/layout/item_recy_view_banh.xml" value="0.14402173913043478" />
+        <entry key="..\:/Du_An_1/app/src/main/res/menu/item_bottomnavigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Duan1/Du_An_1/app/src/main/res/layout/activity_chi_tiet_spactivity.xml" value="0.3374094202898551" />
+        <entry key="..\:/Duan1/Du_An_1/app/src/main/res/layout/activity_dang_nhap.xml" value="0.3374094202898551" />
+        <entry key="..\:/Duan1/Du_An_1/app/src/main/res/layout/activity_home.xml" value="0.3374094202898551" />
+        <entry key="..\:/Duan1/Du_An_1/app/src/main/res/layout/fragment_gio_hang.xml" value="0.3374094202898551" />
+        <entry key="..\:/Duan1/Du_An_1/app/src/main/res/layout/item_recy_view_banh.xml" value="0.3374094202898551" />
+        <entry key="..\:/Duan1/Du_An_1/app/src/main/res/menu/item_bottomnavigation.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

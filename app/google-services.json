@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551659375367",
+    "project_id": "duan1fastfood",
+    "storage_bucket": "duan1fastfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551659375367:android:13b0bf4245e4bdeccc13a2",
+        "android_client_info": {
+          "package_name": "vidu.demo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551659375367-qk94b557hhlrv3kqhlcv1ccm4o7u0amq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqW9qMIZGh_iTWKz6d4JR_EHvPRYo1u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551659375367-qk94b557hhlrv3kqhlcv1ccm4o7u0amq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

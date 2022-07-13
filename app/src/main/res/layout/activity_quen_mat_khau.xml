@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.QuenMatKhauActivity"
+    android:background="@drawable/back_gr2">
+
+    <ImageView
+        android:id="@+id/img_logo_fast_food_login"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/logo_fastfood"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txt_fastfood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:text="FORGOTPASSWORD"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        android:textStyle="italic|bold"
+        app:layout_constraintTop_toBottomOf="@+id/img_logo_fast_food_login" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_input_layout_1"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:hint="Email"
+        app:boxStrokeColor="#000000"
+        app:hintTextColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_fastfood"
+        app:startIconTint="#000000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edt_email_for_got"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#292626"
+            android:textStyle="bold" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:mrl_rippleColor="#03A9F4"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintTop_toBottomOf="@+id/text_input_layout_1"
+        android:layout_marginTop="15dp"
+        tools:layout_editor_absoluteY="518dp">
+
+        <Button
+            android:id="@+id/btn_forgotpass"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Xác Nhân"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
